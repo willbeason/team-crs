@@ -6,4 +6,4 @@ spec:
   roles:
   - role: developer
     users:
-    - alex@clearer.co
+    - alex@example.co
