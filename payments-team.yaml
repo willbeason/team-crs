@@ -6,9 +6,9 @@ spec:
   roles:
   - role: sre
     users:
-    - jane@clearify.co
+    - jane@example.co
   - role: developer
     groups:
-    - payments-developers@clearify.co
+    - payments-developers@example.co
     users:
-    - basic@clearify.co
+    - basic@example.co
