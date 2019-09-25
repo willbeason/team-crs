@@ -1,0 +1,9 @@
+apiVersion: anthos.cft.dev/v1alpha1
+kind: Team
+metadata:
+  name: search
+spec:
+  roles:
+  - role: developer
+    users:
+    - alex@clearer.co
